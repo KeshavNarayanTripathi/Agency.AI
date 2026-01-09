@@ -13,3 +13,6 @@
 @theme{
   --color-primary: #5044E5; 
 }
+html, body {
+  overflow-x: hidden;
+}
